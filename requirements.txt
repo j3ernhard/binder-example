@@ -1,4 +1,2 @@
 pandas
 geopandas
-dash
-ca-certificates
